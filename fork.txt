@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Lucas Carbone 192.168.1.102 5:45 a.m
+=======
+Michell Quintero Hernandez
+11:00 pm
+192.168.56.1
+>>>>>>> c1a0682e59e8311603fb50f7c9b51c34f454fadb
